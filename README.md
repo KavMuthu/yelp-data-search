@@ -4,7 +4,7 @@
 Develop a data analysis application which runs queries on the Yelp data and extracts useful information for users and businesses.
 
 #Features
-▪ Application has a user interface that provides the user the available business categories (main and sub-categories) and the attributes associated with each business category. 
+▪ GUI provides the user the available business categories (main and sub-categories) and the attributes associated with each business category. 
 
 ▪ Using this application, the user will search for the businesses from various business categories that have the properties (attributes) the user is looking for. 
 
@@ -19,4 +19,5 @@ Dataset - http://www.yelp.com/dataset_challenge/. <br/>
 #Technologies Used:
 Front End: Java, Java Swing<br/>
 Back End: Oracle 11g 
+
 
